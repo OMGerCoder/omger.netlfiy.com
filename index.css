@@ -3,6 +3,14 @@ body {
     font-family: sans-serif;
 }
 
+p {
+    font-family: 'Dosis', sans-serif;   
+}
+
+h1 {
+    font-family: 'Comfortaa', cursive;
+}
+
 .title {
     background-color: blue;
     padding-top: 50px;
